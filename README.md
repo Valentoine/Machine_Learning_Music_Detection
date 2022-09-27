@@ -1,1 +1,3 @@
-# Machine_Learning_Music_Detection
+# Machine Learning Music Genre Detection
+
+### Read LaTEX PDF :)
